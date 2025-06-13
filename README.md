@@ -27,5 +27,7 @@ Switching HC-05 → ESP32 enables:
 - CHROMIST_Report.pdf – 9:16 stylish hackathon report
 - CHROMIST_app.aia – Bluetooth app file
 - Screenshots & circuit schematic
-  
+
+## 🔗 Live Wokwi Simulation
+  -  https://wokwi.com/projects/432915125333736449
 
